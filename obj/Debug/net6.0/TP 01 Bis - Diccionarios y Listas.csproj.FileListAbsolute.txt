@@ -1,0 +1,15 @@
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\bin\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.exe
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\bin\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.deps.json
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\bin\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.runtimeconfig.json
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\bin\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.dll
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\bin\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.pdb
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\obj\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.csproj.AssemblyReference.cache
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\obj\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\obj\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.AssemblyInfoInputs.cache
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\obj\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.AssemblyInfo.cs
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\obj\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.csproj.CoreCompileInputs.cache
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\obj\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.dll
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\obj\Debug\net6.0\refint\TP 01 Bis - Diccionarios y Listas.dll
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\obj\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.pdb
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\obj\Debug\net6.0\TP 01 Bis - Diccionarios y Listas.genruntimeconfig.cache
+C:\Users\simon\Desktop\TP 01 Bis - Diccionarios y Listas\obj\Debug\net6.0\ref\TP 01 Bis - Diccionarios y Listas.dll

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TP_01_Bis___Diccionarios_y_Listas
+build_property.ProjectDir = z:\prg5\TP 01 Bis - Diccionarios y Listas_Suken_Droblas\TP 01 Bis - Diccionarios y Listas\
